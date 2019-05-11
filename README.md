@@ -80,7 +80,8 @@ Below are the 4 target variables.
 (bool) Schiller: target variable 
 (bool) Cytology: target variable 
 (bool) Biopsy: target variable
-4.	Proposed Methods
+
+4. Proposed Methods
 Before applying any model to our dataset, we need to see if the quality is good enough. We need to look for any missing values, outliers etc. Then, the data set is divided into training data and validation set. A model is then applied to the training data and cross validated using the validation data. Below are the steps which were done:
 Data Exploration:
 Data exploration was done on the original dataset to find out the missing values, relationship between the features and between features and the outcome variables.
